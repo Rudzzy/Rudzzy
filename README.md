@@ -34,7 +34,7 @@ Welcome to my GitHub — a place where I build, break, and rebuild code in pursu
 
 ## 📬 Let's Connect
 
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/rudra-patel-834b31240/)
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/rudra-patel-2897482b2/)
 - 🌐 Portfolio coming soon (because why not?)
 
 ---
