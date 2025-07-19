@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Rudra (aka rudzzy)
+# 👋 Hey, I’m Rudra
 
 🎓 CS Undergrad | 💻 Python Dev | 📚 DSA Explorer
 
